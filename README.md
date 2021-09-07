@@ -1,5 +1,5 @@
 ###  👋🏾 Hi, I’m Léa
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calone-léa/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léa-calone/)
 
 - 📌 My latest project is the creation of an api e-commerce for selling jewerlies.
 - 🌱 I’m currently learning mongoDB, mongoose.
