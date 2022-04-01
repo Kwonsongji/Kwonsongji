@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léacalone/)
 
 - 📌 My latest project is the creation of Retros Funkys Project based on NFTS.
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning solidity.
 - 💃🏾 I’m looking to collaborate on NFTS Projects.
 - 📫 How to reach me lea.calone@yahoo.com.
 
