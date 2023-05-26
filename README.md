@@ -6,17 +6,19 @@
 - 💃🏾 I’m looking to collaborate on NFTS Projects.
 - 📫 How to reach me mariecamillecalone@gmail.com
 
-## ⚡ Environnemnt, Technologies, Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Nextjs](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## ⚡ Environnemnt, Language, Technologies, Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Solidity](https://img.shields.io/badge/-Solidity-181717?style=flat-square&logo=solidity)
+![Typescript](https://img.shields.io/badge/-Solidity-181717?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nextjs](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=next&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongogb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-61DAFB?style=flat-square&logo=mongoose&logoColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Solidity](https://img.shields.io/badge/-Solidity-181717?style=flat-square&logo=solidity)
+
 <!---
 Kwonsongji/Kwonsongji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
