@@ -1,13 +1,14 @@
 ###  👋🏾 Hi, I’m Léa
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léacalone/)
 
-- 📌 My latest project is the creation of Retros Funkys Project based on NFTS.
+- 📌 My latest project is the creation of Retros Funkys Project based on NFTS, and my ecommerce shop.
 - 🌱 I’m currently learning solidity.
 - 💃🏾 I’m looking to collaborate on NFTS Projects.
-- 📫 How to reach me lea.calone@yahoo.com.
+- 📫 How to reach me mariecamillecalone@gmail.com
 
-## ⚡ Technologies
+## ⚡ Environnemnt, Technologies, Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nextjs](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongogb)
